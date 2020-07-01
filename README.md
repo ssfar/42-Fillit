@@ -49,4 +49,4 @@ The program give the solution square into the terminal via the standard output, 
 #### Here is an exemple of the program output 
 ![a](https://user-images.githubusercontent.com/45463065/86276737-ba861900-bbd5-11ea-8cbe-3bfb02c4d6b3.jpg)
 
-If the input file is not valid, the program will simply output "error"
+If the input file is not valid, the program will simply output "error".
