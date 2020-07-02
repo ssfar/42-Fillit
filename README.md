@@ -3,6 +3,9 @@ An algorithm that takes tetrominos and fit them together to make the smallest sq
 
 Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.en.pdf) - [Français](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.fr.pdf)
 
+Grade 100/100
+
+This group project was realised with the collaboration of Quentin Louisiade "qlouisia".  
 #### Objectives :
 •Basic algorithm  
 •Input/Output  
@@ -12,7 +15,6 @@ Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.
 •Rigor  
 •Algorithms & AI
 
-This group project was realised with the collaboration of Quentin Louisiade "qlouisia".  
 ## How to use
 
 #### Pre required : make and gcc
