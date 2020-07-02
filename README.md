@@ -45,6 +45,6 @@ A valid tetromino file contain 1 to 26 tetrominos separated by a newline (the fi
 
 The program give the solution square into the terminal via the standard output, each different letters represent a tetrimino.
 #### Here is an exemple of the program output 
-![a](https://user-images.githubusercontent.com/45463065/86276737-ba861900-bbd5-11ea-8cbe-3bfb02c4d6b3.jpg)
+![fillit_result](https://user-images.githubusercontent.com/45463065/86388559-49a63600-bc95-11ea-96f2-14e4888c0658.png)
 
 If the input file is not valid, the program will simply output "error".
