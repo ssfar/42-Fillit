@@ -5,7 +5,6 @@ Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.
 
 Grade 100/100
 
-This group project was realised with the collaboration of Quentin Louisiade "qlouisia".  
 #### Objectives :
 •Basic algorithm  
 •Input/Output  
