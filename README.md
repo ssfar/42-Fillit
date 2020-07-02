@@ -11,6 +11,8 @@ Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.
 •Group & interpersonal  
 •Rigor  
 •Algorithms & AI
+
+This group project was realised with the collaboration of Quentin Louisiade "qlouisia".  
 ## How to use
 
 #### Pre required : make and gcc
