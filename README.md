@@ -1,7 +1,16 @@
 # 42-Fillit
 An algorithm that takes tetrominos and fit them together to make the smallest square possible.
 
-![Fillit](https://user-images.githubusercontent.com/45463065/86302098-ff2aa800-bc07-11ea-9823-c0d976122ffb.jpg)  
+
+#### Objectives :
+•Basic algorithm  
+•Input/Output  
+#### Skills :
+•Unix  
+•Group & interpersonal  
+•Rigor  
+•Algorithms & AI    
+  
 Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.en.pdf) - [Français](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.fr.pdf)
 
 ## How to use
