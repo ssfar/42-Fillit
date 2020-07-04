@@ -16,7 +16,8 @@ Grade 100/100
 
 ## How to use
 
-#### Pre required : make and gcc
+#### Pre required : Make and GCC
+
 First open a terminal, go to the project folder and build the project by typping : 
 ```
 make
