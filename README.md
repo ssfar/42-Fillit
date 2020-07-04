@@ -9,10 +9,10 @@ Grade 100/100
 • Basic algorithm  
 • Input/Output  
 #### Skills :
-• Unix  
+• Algorithms & AI  
 • Group & interpersonal  
+• Unix  
 • Rigor  
-• Algorithms & AI
 
 ## How to use
 
