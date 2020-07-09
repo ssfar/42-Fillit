@@ -14,6 +14,9 @@ Grade 100/100
 • Unix  
 • Rigor  
 
+#### Developed for Mac OS X.  
+(It might work on other operating systems, otherwise I may apply some modifications later on).
+
 ## How to use
 
 #### Pre required : Make and GCC
