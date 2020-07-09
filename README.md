@@ -1,14 +1,14 @@
 # 42-Fillit
 An algorithm that takes tetrominos and fits them together to make the smallest square possible.
 
-Subject : [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.en.pdf) - [Français](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.fr.pdf)
+Subject: [English](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.en.pdf) - [Français](https://github.com/ssfar/42-Subjects.pdf/blob/master/fillit.fr.pdf)
 
 Grade 100/100
 
-#### Objectives :
+#### Objectives:
 • Basic algorithm  
 • Input/Output  
-#### Skills :
+#### Skills:
 • Algorithms & AI  
 • Group & interpersonal  
 • Unix  
@@ -19,16 +19,16 @@ Grade 100/100
 
 ## How to use
 
-#### Pre required : Make and GCC
+#### Pre required: Make and GCC
 
-First open a terminal, go to the project folder and build the project by typping : 
+First open a terminal, go to the project folder and build the project by typping: 
 ```
 make
 ```
 
 ### Input
 
-Execute the program with a valid tetromino file as first argument :
+Execute the program with a valid tetromino file as first argument:
 ```
 ./fillit valid_file
 ```
